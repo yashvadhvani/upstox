@@ -1,0 +1,23 @@
+{
+  "name": "fsm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "log4js": "^6.1.2",
+    "rotating-file-stream": "^2.0.2",
+    "seneca": "^3.20.2",
+    "socket.io-client": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "pm2 start index.js --name 'FSM'",
+    "stop": "pm2 stop index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

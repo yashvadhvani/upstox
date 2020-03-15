@@ -1,0 +1,117 @@
+[2020-03-15T15:05:25.619] [INFO] logFile - logger started successfully
+[2020-03-15T15:05:25.629] [INFO] logFile - Started WebSocket micro-service on port: 4000
+[2020-03-15T15:05:31.354] [INFO] logFile - {
+  "num": 1,
+  "close": 0.01947,
+  "low": 0.01947,
+  "high": 0.01947,
+  "open": 0.01947,
+  "start": 1538409725339216400,
+  "end": 1538409740339216400
+}
+[2020-03-15T15:05:31.357] [INFO] logFile - {
+  "num": 2,
+  "close": null,
+  "low": null,
+  "high": null,
+  "open": null,
+  "start": 1538409740339216400,
+  "end": 1538409755339216400
+}
+[2020-03-15T15:05:31.358] [INFO] logFile - {
+  "num": 1,
+  "close": 226.85,
+  "low": 226.85,
+  "high": 226.85,
+  "open": 226.85,
+  "start": 1538409738828589300,
+  "end": 1538409753828589300
+}
+[2020-03-15T15:05:31.359] [INFO] logFile - {
+  "num": 1,
+  "close": 6537.7,
+  "low": 6537.7,
+  "high": 6538.8,
+  "open": 6538.8,
+  "start": 1538409748332169200,
+  "end": 1538409763332169200
+}
+[2020-03-15T15:05:31.360] [INFO] logFile - {
+  "num": 1,
+  "close": 0.00003939,
+  "low": 0.00003939,
+  "high": 0.00003939,
+  "open": 0.00003939,
+  "start": 1538409749939606800,
+  "end": 1538409764939606800
+}
+[2020-03-15T15:05:31.360] [INFO] logFile - {
+  "num": 3,
+  "close": null,
+  "low": null,
+  "high": null,
+  "open": null,
+  "start": 1538409755339216400,
+  "end": 1538409770339216400
+}
+[2020-03-15T15:05:31.360] [INFO] logFile - {
+  "num": 2,
+  "close": 226.61,
+  "low": 226.61,
+  "high": 226.61,
+  "open": 226.61,
+  "start": 1538409753828589300,
+  "end": 1538409768828589300
+}
+[2020-03-15T15:05:31.361] [INFO] logFile - {
+  "num": 2,
+  "close": 6537.4,
+  "low": 6537.4,
+  "high": 6537.7,
+  "open": 6537.7,
+  "start": 1538409763332169200,
+  "end": 1538409778332169200
+}
+[2020-03-15T15:05:31.361] [INFO] logFile - {
+  "num": 2,
+  "close": null,
+  "low": null,
+  "high": null,
+  "open": null,
+  "start": 1538409764939606800,
+  "end": 1538409779939606800
+}
+[2020-03-15T15:05:31.363] [INFO] logFile - {
+  "num": 1,
+  "close": 0.07207,
+  "low": 0.07207,
+  "high": 0.07207,
+  "open": 0.07207,
+  "start": 1538409757094032600,
+  "end": 1538409772094032600
+}
+[2020-03-15T15:05:31.365] [INFO] logFile - {
+  "num": 3,
+  "close": 6537.4,
+  "low": 6537.4,
+  "high": 6537.4,
+  "open": 6537.4,
+  "start": 1538409778332169200,
+  "end": 1538409793332169200
+}
+[2020-03-15T15:06:55.649] [INFO] logFile - logger started successfully
+[2020-03-15T15:06:55.655] [INFO] logFile - Started WebSocket micro-service on port: 4000
+[2020-03-15T15:10:20.251] [INFO] logFile - logger started successfully
+[2020-03-15T15:10:20.257] [INFO] logFile - Started WebSocket micro-service on port: 4000
+[2020-03-15T15:11:27.239] [INFO] logFile - logger started successfully
+[2020-03-15T15:11:27.248] [INFO] logFile - Started WebSocket micro-service on port: 4000
+[2020-03-15T15:12:27.293] [INFO] logFile - logger started successfully
+[2020-03-15T15:12:27.307] [INFO] logFile - Started WebSocket micro-service on port: 4000
+[2020-03-15T15:16:20.740] [INFO] logFile - logger started successfully
+[2020-03-15T15:16:20.773] [INFO] logFile - Started WebSocket micro-service on port: 4000
+[2020-03-15T15:21:48.208] [INFO] logFile - logger started successfully
+[2020-03-15T15:21:48.273] [INFO] logFile - Started WebSocket micro-service on port: 4000
+[2020-03-15T15:21:49.931] [INFO] logFile - logger started successfully
+[2020-03-15T15:21:49.948] [INFO] logFile - Started WebSocket micro-service on port: 4000
+[2020-03-15T15:22:12.938] [INFO] logFile - logger started successfully
+[2020-03-15T15:22:12.968] [INFO] logFile - Started WebSocket micro-service on port: 4000

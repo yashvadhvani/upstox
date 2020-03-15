@@ -1,0 +1,15 @@
+{
+    "name": "reader",
+    "version": "0.0.0",
+    "private": true,
+    "scripts": {
+      "start": "pm2 start index.js --name 'reader'",
+      "stop": "pm2 stop index.js"
+    },
+    "dependencies": {
+      "dotenv": "^8.2.0",
+      "morgan": "~1.9.1",
+      "seneca": "^3.20.2"
+    }
+  }
+  
